@@ -1,0 +1,99 @@
+body{
+    background-color: #CFEBA7;
+}
+
+.barrinha{
+    background-color: #009e3a;
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+  }
+  
+  .form-signin .checkbox {
+    font-weight: 400;
+  }
+  
+  .form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+  
+  .form-signin input[type="cpf"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+  .barrinhadois{
+      background-color: #1b9c21;
+      color: white;
+      font-size: 30px;
+      height: 45px;
+  }
+  .nicklas{
+      background-color: #ebebeb;
+  }
+  .barrinhatres{
+      background-color: white;
+      color: #336600;
+      font-size: 13px;
+  }
+  .botaozinho{
+      background-color: #9ed54c;
+      color: #336600;
+      font-size: 18px;
+      border-radius: 35px;
+  }
+
+  footer{
+    background-color: #009e3a;
+    color: white;
+  }
+
+ .estrelinha{
+    color: #a90000;
+  }
+
+.cpfinep{
+  color: #336600;
+}
+
+  .mec{
+    color: white;
+  }
+
+ .passinep{
+   color: #336600;
+ }
+
+ .lembrarlog{
+   color: #336600
+ }
+
+.teste{
+  background-color: #9ed54c;
+  
+}
+
+.testedois{
+  background-color: white;
+  height: 100px;
+}
+
+.duvidas{
+  color: #9ed54c;
+  font-size: 14px;
+}
+
+.rec{
+  color:#9ed54c;
+  font-size: 14px;
+}
